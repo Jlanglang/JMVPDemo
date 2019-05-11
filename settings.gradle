@@ -1,0 +1,3 @@
+include ':framework-jmvp', ':module-kotlindemo'
+include ':lib-imageloder-glide', ':lib-utils-common', ':lib-mvpbase-kotlin'
+include ':app', 'module-home'
